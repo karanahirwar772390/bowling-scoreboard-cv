@@ -1,0 +1,122 @@
+{
+  "video": "bowling_scoreboard.mp4",
+  "fps": 30.0,
+  "frames_processed": 1735,
+  "scoreboard_frames_detected": 25,
+  "active_header_name": "TARUN",
+  "players": [
+    {
+      "player_id": "J",
+      "frame_results": [
+        "X",
+        "5-",
+        "-7",
+        "4-",
+        "4-",
+        "4-",
+        "4-",
+        "4-",
+        "4-",
+        "4-"
+      ],
+      "total": null,
+      "template_confidence": [
+        0.97,
+        0.979,
+        0.981,
+        0.963,
+        0.444,
+        0.519,
+        0.572,
+        0.494,
+        0.46,
+        0.51
+      ]
+    },
+    {
+      "player_id": "V",
+      "frame_results": [
+        "8-",
+        "3-",
+        "71",
+        "81",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 0,
+      "template_confidence": [
+        0.762,
+        0.796,
+        0.788,
+        0.619,
+        0.066,
+        0.083,
+        0.092,
+        0.118,
+        0.103,
+        0.065
+      ]
+    },
+    {
+      "player_id": "P",
+      "frame_results": [
+        "X",
+        "4/",
+        "4/",
+        "9-",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null,
+      "template_confidence": [
+        0.291,
+        0.316,
+        0.214,
+        0.201,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.018
+      ]
+    },
+    {
+      "player_id": "T",
+      "frame_results": [
+        "61",
+        "1/",
+        "1/",
+        "34",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null,
+      "template_confidence": [
+        0.234,
+        0.168,
+        0.128,
+        0.153,
+        0.0,
+        0.0,
+        0.056,
+        0.014,
+        0.09,
+        0.091
+      ]
+    }
+  ],
+  "method": "OpenCV scoreboard detection + calibrated grid + edge-based template matching + Tesseract OCR + temporal voting"
+}
