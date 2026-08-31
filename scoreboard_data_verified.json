@@ -1,0 +1,15 @@
+{
+  "video": "bowling_scoreboard.mp4",
+  "resolution": "1920x1080",
+  "duration_seconds": 57.83,
+  "final_scoreboard": {
+    "active_player": "VISHAL",
+    "players": [
+      {"player_id":"J","frames":{"1":"X","2":"5-","3":"-7","4":"4-","5":"X"},"cumulative_scores":[15,20,27,31,41],"total":41},
+      {"player_id":"V","frames":{"1":"8-","2":"3-","3":"71","4":"81","5":"9"},"cumulative_scores":[8,11,19,28,37],"total":37},
+      {"player_id":"P","frames":{"1":"X","2":"4/","3":"9-","4":"6-"},"cumulative_scores":[20,39,48,54],"total":54},
+      {"player_id":"T","frames":{"1":"61","2":"1/","3":"8-","4":"34"},"cumulative_scores":[7,25,33,40],"total":40}
+    ]
+  },
+  "notes": "Final values manually verified against clear scoreboard frames in the supplied video; the CV pipeline detects the scoreboard and provides OCR/template candidates, followed by validation."
+}
