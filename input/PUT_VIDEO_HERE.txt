@@ -1,0 +1,1 @@
+Copy bowling_scoreboard.mp4 into this folder before running the project.

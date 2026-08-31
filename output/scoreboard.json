@@ -1,0 +1,877 @@
+{
+  "video": "bowling_scoreboard.mp4",
+  "fps": 30.0,
+  "frame_count": 1735,
+  "duration_sec": 57.83,
+  "records": [
+    {
+      "timestamp_sec": 0.0,
+      "frame": 0,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 0.5,
+      "frame": 15,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 1.0,
+      "frame": 30,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 1.5,
+      "frame": 45,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 2.0,
+      "frame": 60,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 2.5,
+      "frame": 75,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 3.0,
+      "frame": 90,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 3.5,
+      "frame": 105,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 7.5,
+      "frame": 225,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 8.0,
+      "frame": 240,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 8.5,
+      "frame": 255,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 9.0,
+      "frame": 270,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 9.5,
+      "frame": 285,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 10.0,
+      "frame": 300,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 10.5,
+      "frame": 315,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 11.0,
+      "frame": 330,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 11.5,
+      "frame": 345,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 12.0,
+      "frame": 360,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 12.5,
+      "frame": 375,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 13.0,
+      "frame": 390,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 13.5,
+      "frame": 405,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 14.0,
+      "frame": 420,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 14.5,
+      "frame": 435,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 15.0,
+      "frame": 450,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 15.5,
+      "frame": 465,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 16.0,
+      "frame": 480,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 16.5,
+      "frame": 495,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 17.0,
+      "frame": 510,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 17.5,
+      "frame": 525,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 18.0,
+      "frame": 540,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 18.5,
+      "frame": 555,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 19.0,
+      "frame": 570,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 19.5,
+      "frame": 585,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 20.0,
+      "frame": 600,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 20.5,
+      "frame": 615,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 21.0,
+      "frame": 630,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 21.5,
+      "frame": 645,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 22.0,
+      "frame": 660,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 22.5,
+      "frame": 675,
+      "active_player": "TARUN",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 26.5,
+      "frame": 795,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 33
+      }
+    },
+    {
+      "timestamp_sec": 27.0,
+      "frame": 810,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 27.5,
+      "frame": 825,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 28.0,
+      "frame": 840,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 28.5,
+      "frame": 855,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 29.0,
+      "frame": 870,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 29.5,
+      "frame": 885,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 30.0,
+      "frame": 900,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 30.5,
+      "frame": 915,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 31.0,
+      "frame": 930,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 31.5,
+      "frame": 945,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 32.0,
+      "frame": 960,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 32.5,
+      "frame": 975,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 33.0,
+      "frame": 990,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 33.5,
+      "frame": 1005,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 34.0,
+      "frame": 1020,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 34.5,
+      "frame": 1035,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 35.0,
+      "frame": 1050,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 35.5,
+      "frame": 1065,
+      "active_player": "JAGDISH",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 36.0,
+      "frame": 1080,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 44.5,
+      "frame": 1335,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 45.0,
+      "frame": 1350,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 31,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 45.5,
+      "frame": 1365,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 46.0,
+      "frame": 1380,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 46.5,
+      "frame": 1395,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 47.0,
+      "frame": 1410,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 47.5,
+      "frame": 1425,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 48.0,
+      "frame": 1440,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 48.5,
+      "frame": 1455,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 52.5,
+      "frame": 1575,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 53.0,
+      "frame": 1590,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 53.5,
+      "frame": 1605,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 54.0,
+      "frame": 1620,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 28,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 54.5,
+      "frame": 1635,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 31,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 55.0,
+      "frame": 1650,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 31,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 55.5,
+      "frame": 1665,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 31,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 56.0,
+      "frame": 1680,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 31,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 56.5,
+      "frame": 1695,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 31,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 57.0,
+      "frame": 1710,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 31,
+        "P": 54,
+        "T": 40
+      }
+    },
+    {
+      "timestamp_sec": 57.5,
+      "frame": 1725,
+      "active_player": "VISHAL",
+      "totals": {
+        "J": 41,
+        "V": 31,
+        "P": 54,
+        "T": 40
+      }
+    }
+  ]
+}
